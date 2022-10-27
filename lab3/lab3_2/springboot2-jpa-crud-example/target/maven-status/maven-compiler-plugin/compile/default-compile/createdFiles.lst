@@ -1,0 +1,7 @@
+net/guides/springboot2/springboot2jpacrudexample/EmployeeRepository.class
+net/guides/springboot2/springboot2jpacrudexample/Springboot2JpaCrudExampleApplication.class
+net/guides/springboot2/springboot2jpacrudexample/Employee.class
+net/guides/springboot2/springboot2jpacrudexample/ErrorDetails.class
+net/guides/springboot2/springboot2jpacrudexample/GlobalExceptionHandler.class
+net/guides/springboot2/springboot2jpacrudexample/ResourceNotFoundException.class
+net/guides/springboot2/springboot2jpacrudexample/EmployeeController.class
