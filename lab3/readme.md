@@ -1,0 +1,1 @@
+Devido a problemas no uso do GitHub, houve alguns problemas com push e merge. Além disso, peço desculpas por não colocar o Lab3_1 em sua devida pasta, ele é relacionado a pasta users.
