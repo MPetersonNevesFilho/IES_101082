@@ -17,10 +17,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import net.guides.springboot2.springboot2jpacrudexample.ResourceNotFoundException;
-import net.guides.springboot2.springboot2jpacrudexample.Employee;
-import net.guides.springboot2.springboot2jpacrudexample.EmployeeRepository;
-
 @RestController
 @RequestMapping("/api/v1")
 public class EmployeeController {
